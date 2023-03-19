@@ -3,7 +3,7 @@ Coursework for STAA578 (Machine Learning, Colorado State University) Spring 2023
 
 I will keep my solutions to homework problems here.
 
-The course description (From Prof. Anders):
+The course description (From Prof. Anders Wilson):
 
 ## STAA 578 Overview
 
